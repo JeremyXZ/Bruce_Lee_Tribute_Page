@@ -1,1 +1,1 @@
-To see the actual page of the source code,  please check out this address: https://jeremyxz.github.io/Bruce_Lee_Tribute_Page/index.html
+To see how the source codes havee been rendered,  please click this link: https://jeremyxz.github.io/Bruce_Lee_Tribute_Page/index.html.
